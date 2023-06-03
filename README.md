@@ -1,7 +1,7 @@
 
 ### run locally on your machine
-Clone current github repository to your devices
-Install all the dependencies by using command npm i
+Clone current github repository to your devices \
+Install all the dependencies by using command npm i \
 run react app using command npm start
 
 
